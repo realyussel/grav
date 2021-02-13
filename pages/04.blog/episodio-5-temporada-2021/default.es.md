@@ -18,6 +18,8 @@ feed:
 Y comenzamos.
 Hablando de una nueva red social, que esta causando gran interés.
 
+# Clubhouse
+
 Se trata de Clubhouse.
 
 Una plataforma, con una peculiar propuesta.
@@ -66,6 +68,8 @@ Algo totalmente diferente (que han llamado Space). pero, que se parece mucho a C
 Así que, si al final, no podemos unirnos a Clubhouse, tendremos a Space! de Twitter.
 
 ===
+
+# Jeff Bezos, dejará de ser CEO de Amazon
 
 El fundador de Amazon, el multimillonario Jeff Bezos, ah anunciado, su! desición, de dejar el puesto de “CEO de Amazon”, a finales de este año, 2021.
 
